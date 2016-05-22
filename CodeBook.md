@@ -48,7 +48,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 run_analysis.R works to merge the different data into a consolidated tidy data set.
 
-* full - Merge the test and train data into a single data set, including Actity and Subject.
+* full - Merge the test and train data into a single data set, including Activity and Subject.
 
 * selectData - Filter "full" to only show mean and std variables.
 
